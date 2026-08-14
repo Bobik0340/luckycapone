@@ -1,2 +1,0 @@
-# luckycapone
-luckycapone site
